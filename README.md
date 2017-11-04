@@ -1,2 +1,1 @@
-# coursera-crypto
-Programming assignments for coursera's course Cryptography I
+# Solutions for programming assignments of coursera's course [Cryptography I](https://www.coursera.org/learn/crypto/)
